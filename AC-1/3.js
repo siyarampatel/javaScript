@@ -8,3 +8,5 @@ const product={
 console.log(product);
 console.log(product["title"]);
 console.log(product.title);
+console.log(typeof product.title);
+console.log(typeof product["title"]);
